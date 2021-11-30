@@ -16,6 +16,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O todo-list é um projeto desenvolvido no curso da Trybe que permite adicionar as tarefas do dia a dia, marcar como concluídas e excluir.
 
+## 🔖 Layout
+
+Você pode acessar o site do projeto através [desse link](https://thiagodanobrega.github.io/todo-list/). 
+
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
